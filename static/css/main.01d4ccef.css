@@ -1,0 +1,2 @@
+*{box-sizing:border-box;color:#000}body,html{margin:0}#root{display:flex;flex-direction:column;height:100vh}#root>main{flex-grow:1;padding:.625em}header{background-color:red}ul{align-items:center;display:flex;flex-direction:row;justify-content:space-evenly;margin:0}li{display:inline-block}footer{align-items:center;background-color:red;display:flex;justify-content:space-evenly}
+/*# sourceMappingURL=main.01d4ccef.css.map*/
